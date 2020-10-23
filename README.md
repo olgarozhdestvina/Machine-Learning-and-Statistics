@@ -4,7 +4,7 @@ The repository consists of four tasks covering various topics on Machine Learnin
 
 *Submitted by:* Olga Rozhdestvina (Student No: G00387844) 
 
-*Lecturers:* Ian McLoughlin
+*Lecturer:* Ian McLoughlin
 
 *Programming Language used:* [Python](https://www.python.org/)
 
@@ -47,6 +47,11 @@ Distribution of the Python used is [Anaconda Python distribution](https://www.an
   * ***sqrt2.py*** <a name="task1"></a>
 This Python function prints to the screen root of 2 to 100 decimal places.
 
+_Ouput of the above function:_
+    
+    sqrt2()
+    1.4142135623730950488016887242096980785696718753769480731766797379907324784621070388503875343276415727
+
   * <a name="task2"></a>
 
   * <a name="task3"></a>
@@ -61,3 +66,7 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 #### Acknowledgment <a name="acknowledgment"></a>
 
+  * [Lecturer of GMIT Ian McLoughlin](https://github.com/ianmcloughlin)
+  * [Wikipedia](www.wikipedia.org)
+  * [The On-Line Encyclopedia of Integer Sequences](https://oeis.org/)
+  * [Stack Overflow](https://stackoverflow.com/)
