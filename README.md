@@ -45,6 +45,7 @@ Distribution of the Python used is [Anaconda Python distribution](https://www.an
 ### Full Description of the Tasks <a name="full_description_of_the_tasks"></a>
 
   * ***sqrt2.py*** <a name="task1"></a>
+
 This Python function prints to the screen root of 2 to 100 decimal places.
 
 _Ouput of the above function:_
@@ -52,7 +53,15 @@ _Ouput of the above function:_
     sqrt2()
     1.4142135623730950488016887242096980785696718753769480731766797379907324784621070388503875343276415727
 
-  * <a name="task2"></a>
+  * ***Verify the Chi-squared value*** <a name="task2"></a>
+
+Verification of the chi-square value 24.6 and calculation of the associated p-value given the example of categorical data.
+
+_Ouput of the performed Chi-square test:_
+
+    Chi-squared value: 24.5712028585826
+    The associated p-value: 0.0004098425861096696
+
 
   * <a name="task3"></a>
 
