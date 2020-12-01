@@ -1,4 +1,4 @@
-# Machine-Learning-and-Statistics-Tasks Module GMIT 2020
+# Task Assessment for Machine Learning and Statistics Module GMIT 2020
 
 The repository consists of four tasks covering various topics on Machine Learning and Statistics.
 
@@ -27,7 +27,7 @@ Applications used for completion of the tasks are [The Jupyter Notebook](https:/
 
 Distribution of Python is [Anaconda Python distribution](https://www.anaconda.com/). 
 
-Libraries used to complete the tasks: [NumPy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), [SciPy](https://www.scipy.org/). All of these are installed with the Anaconda Python distribution.
+Libraries used to complete the tasks: [NumPy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), [SciPy](https://www.scipy.org/), [scikit-learn](https://scikit-learn.org/stable/). All of these are installed with the Anaconda Python distribution.
 
 
 ----
