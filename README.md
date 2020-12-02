@@ -1,4 +1,8 @@
-# Task Assessment for Machine Learning and Statistics Module GMIT 2020
+## Task Assessment for Machine Learning and Statistics Module GMIT 2020
+
+<img align="center" height="220" src="https://earthsky.org/upl/2018/05/deep-learning-quora.png">
+
+<br>
 
 The repository consists of four tasks covering various topics on Machine Learning and Statistics.
 
@@ -12,7 +16,7 @@ The repository consists of four tasks covering various topics on Machine Learnin
 ----
 
 
-## Table of Contents
+### Table of Contents
 * [Set up](#set_up)
 * [How to run the code](#how_to_run_the_code)
 * [License](#licence)
@@ -21,7 +25,7 @@ The repository consists of four tasks covering various topics on Machine Learnin
 ----
 
 
-### Set up <a name="set_up"></a>
+#### Set up <a name="set_up"></a>
 
 Applications used for completion of the tasks are [The Jupyter Notebook](https://jupyter.org/) and [cmder](http://cmder.net/)
 
@@ -33,7 +37,7 @@ Libraries used to complete the tasks: [NumPy](https://numpy.org/), [Pandas](http
 ----
 
 
-###  How to run the code <a name="how_to_run_the_code"></a>
+####  How to run the code <a name="how_to_run_the_code"></a>
 
 1. Make sure that you have Python installed
 2. Download or clone current repository "Machine-Learning-and-Statistics-Tasks"
@@ -43,6 +47,6 @@ Libraries used to complete the tasks: [NumPy](https://numpy.org/), [Pandas](http
 
 ----
 
-### License <a name="licence"></a>
+#### License <a name="licence"></a>
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
