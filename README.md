@@ -4,7 +4,13 @@
 
 <br>
 
-The repository consists of four tasks covering various topics on Machine Learning and Statistics.
+The repository consists of four tasks covering various topics on Machine Learning and Statistics:
+* Calculating square root of 2 to 100 decimal places without using Python libraries
+* Verifying the Chi-squared value
+* Python analysis of standard deviation in Microsoft Excel: STDEV.P vs STDEV.S
+* Iris k-Nearest Neighbours
+
+
 
 *Submitted by:* Olga Rozhdestvina (Student No: G00387844) 
 
@@ -16,16 +22,7 @@ The repository consists of four tasks covering various topics on Machine Learnin
 ----
 
 
-### Table of Contents
-* [Set up](#set_up)
-* [How to run the code](#how_to_run_the_code)
-* [License](#licence)
-
-
-----
-
-
-#### Set up <a name="set_up"></a>
+#### Set up
 
 Applications used for completion of the tasks are [The Jupyter Notebook](https://jupyter.org/) and [cmder](http://cmder.net/)
 
@@ -37,7 +34,7 @@ Libraries used to complete the tasks: [NumPy](https://numpy.org/), [Pandas](http
 ----
 
 
-####  How to run the code <a name="how_to_run_the_code"></a>
+####  How to run the code 
 
 1. Make sure that you have Python installed
 2. Download or clone current repository "Machine-Learning-and-Statistics-Tasks"
@@ -48,6 +45,6 @@ Libraries used to complete the tasks: [NumPy](https://numpy.org/), [Pandas](http
 
 ----
 
-#### License <a name="licence"></a>
+#### License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
